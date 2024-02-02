@@ -7,7 +7,7 @@
 <h1 align="center"><b>CS116.O11.KHTN-Lập trình Python cho Máy học</b></h>
 
 ## Giới thiệu môn học:
-* **Tên môn học:** Thi giác máy tính nâng cao
+* **Tên môn học:** Lập trình Python cho Máy học
 * **Mã môn học:** CS116
 * **Mã lớp:** CS116.O11.KHTN
 * **Năm học:** HK1 (2023 - 2024)
